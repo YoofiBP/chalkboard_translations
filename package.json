@@ -1,7 +1,9 @@
 {
   "name": "flutter_translation_api",
   "version": "1.0.0",
-  "engines": "12.x",
+  "engines": {
+  "node": "12.x"
+  },
   "description": "",
   "main": "server.js",
   "type": "module",
